@@ -1,1 +1,2 @@
-# wangstart
+＃wangstart
+print
